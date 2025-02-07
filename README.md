@@ -4,6 +4,6 @@
 
 <ins> Project description:</ins>
 
-Project contains packages: main, entity, util. Package entity contains class Tiger which dscribes animal.
+Project contains packages: main, entity, util. Package entity contains class Tiger which describes an animal.
 Package util contains class EventProducer which describes 8 possible events from animal life using cycles and if-else operator.
-The goal of a project is to simulate a life of an animal and prevent its early death. Events happening to the animal are displayed one by one in the console.
+The goal of the project is to simulate a life of an animal and prevent its early death. Events happening to the animal are displayed one by one in the console.
