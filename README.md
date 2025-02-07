@@ -1,6 +1,6 @@
 **Jungle simulator**
 
-<ins> Project aim: </ins> to learn how to use cycles and if-else operator by creating live simulator of animal
+<ins> Project aim: </ins> to learn how to use cycles and if-else operator by creating live simulator of an animal
 
 <ins> Project description:</ins>
 
